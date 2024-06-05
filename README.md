@@ -1,3 +1,8 @@
 <h1 align="center"> Currency Converter </h1>
 
-<img align="center" src="https://github.com/leozende/coin-exchange/assets/13819826/1173ce5c-7ec4-48ad-8593-c413b019f512" alt="Convert Currency">
+<p align="center">
+  
+![CurrencyConvert](https://github.com/leozende/coin-exchange/assets/13819826/14a64894-54b0-4505-bff1-5fcd38f31ffe) 
+
+</p>
+
