@@ -7,3 +7,7 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+## Description
+
+A currency converter that provides the value of the currency you want in: ARS, BOB, BRL, CLP, COP and USD.
