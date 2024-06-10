@@ -52,7 +52,7 @@ public class SearchCoins {
 
     }
 
-    public void valueConverter(ConversionRates coin,int quantity) {
+    public String valueConverter(ConversionRates coin,int quantity) {
 
         String formattedCoins = """
                 "ARS" = %.2f
@@ -64,7 +64,7 @@ public class SearchCoins {
                 
                 """.formatted(coin.ARS() * quantity, coin.BOB() * quantity,coin.BRL() * quantity, coin.CLP() * quantity, coin.COP() * quantity, coin.USD() * quantity);
 
-        System.out.println(formattedCoins);
+        return formattedCoins;
 
     }
 
